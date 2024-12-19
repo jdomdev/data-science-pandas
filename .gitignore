@@ -1,0 +1,44 @@
+
+---
+
+### Archivo `.gitignore`
+
+```plaintext
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Entornos de Anaconda
+env/
+*.conda
+*.env
+*.venv
+*.virtualenv
+
+# Archivos de configuración y logs
+*.log
+*.pyc
+__pycache__/
+*.pyo
+*.out
+*.cache
+
+# Archivos de datos temporales
+*.csv
+*.json
+*.xls
+*.xlsx
+datasets/*_tmp.*
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos generados por Jupyter
+*.nbconvert/
+*.nbconvert.log
+
+# Configuraciones específicas del entorno de desarrollo
+.idea/
+.vscode/
+
