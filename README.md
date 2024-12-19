@@ -75,3 +75,16 @@ jupyter notebook
 - GeoPandas: >=0.10
 - Matplotlib: >=3.4
 - Jupyter: >=1.0
+
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la **Licencia Pública General de GNU v3.0**. Consulta el archivo [LICENSE](./LICENSE) para más detalles.  
+Con esta actualización, se especifica que la aplicación está bajo la licencia GPLv3. Esto informa a los colaboradores y usuarios que pueden modificar y redistribuir el software bajo los términos de esta licencia.
+
+<div align="center">
+  <img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt="GPLv3 Logo" width="150">
+</div>
+
+
+
